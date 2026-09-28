@@ -28,6 +28,11 @@ The objective was to understand customer demographics, purchasing behaviour, pro
 - How do they respond to marketing campaigns?
 
 ---
+## Business Problem
+
+The dataset contains customer demographics, income, purchasing behaviour, product spending, website activity, and marketing campaign responses.
+
+The objective was to clean and validate the data, analyse customer behaviour using SQL, build an interactive Power BI dashboard, and convert the findings into meaningful business insights.
 
 ## Dataset
 
